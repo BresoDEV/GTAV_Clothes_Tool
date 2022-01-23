@@ -2,7 +2,7 @@
 <h1>GTAV Clothes Tool</h1><br >
 <br >
 
-<p>Program that creates clothes combinations for the game GTAV Online.
+<p>Simple tool, to create clothes combinations for the game GTAV Online.
 The program provides a preview of the components, and generates the source code for ModMenus and for Fivem servers.</p>
 
 <hr />
