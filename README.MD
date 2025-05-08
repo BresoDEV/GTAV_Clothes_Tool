@@ -6,7 +6,7 @@
 The program provides a preview of the components, and generates the source code for ModMenus and for Fivem servers.</p>
 
 <hr />
-[BresoDEV created this stuff](https://github.com/BresoDEV/GTAV_Clothes_Tool/blob/main/screen.png?raw=true)
+![BresoDEV created this stuff](https://github.com/BresoDEV/GTAV_Clothes_Tool/blob/main/screen.png?raw=true)
  
 
 <p>Thanks to <a href=https://wiki.rage.mp/index.php?title=Clothes"> Rage Wiki Group </a> for all clothes pics and IDs</p>
